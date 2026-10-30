@@ -6,7 +6,12 @@
   "private": true,
   "type": "module",
   "linked": {
-    "kind": "app"
+    "kind": "app",
+    "unpublishedPackages": {
+      "t8happy-u9asun-1-assets": {
+        "repo": "https://github.com/linked-cm-testing/t8happy-u9asun-assets-t8happy-u9asun-1.git"
+      }
+    }
   },
   "author": {
     "name": "",
